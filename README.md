@@ -1,8 +1,8 @@
-# RAG CLI
+# OLLAMA OPEN RAG CLI
 
 ## English
 
-RAG CLI is a small command-line tool for question answering over your own documents using Retrieval-Augmented Generation with Ollama and ChromaDB. It is designed to be easy to run locally, easy to extend, and suitable for open-source reuse.
+OLLAMA OPEN RAG CLI is a small command-line tool for question answering over your own documents using Retrieval-Augmented Generation with Ollama and ChromaDB. It is designed to be easy to run locally, easy to extend, and suitable for open-source reuse.
 
 ### Requirements
 
@@ -101,7 +101,7 @@ If you have `.txt` or `.pdf` files, run the preprocess command first to convert 
 
 ## Português
 
-O RAG CLI é uma ferramenta de linha de comando para consultar seus próprios documentos usando Retrieval-Augmented Generation com Ollama e ChromaDB. O projeto foi pensado para rodar localmente com simplicidade, ser fácil de adaptar e servir bem como base para uso em open source.
+O OLLAMA OPEN RAG CLI é uma ferramenta de linha de comando para consultar seus próprios documentos usando Retrieval-Augmented Generation com Ollama e ChromaDB. O projeto foi pensado para rodar localmente com simplicidade, ser fácil de adaptar e servir bem como base para uso em open source.
 
 ### Requisitos
 
