@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+build/
+dist/
+site/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environment and local settings
+.env
+.env.*
+.python-version
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# Project data and local indexes
+knowledge/
+vector_store/
